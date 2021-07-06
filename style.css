@@ -25,6 +25,9 @@ h2{
 .half-width img{
     width: 80%;
 }
+.half-width .middle-img{
+    width: 50%;
+}
 .button{
     text-decoration: none;
     color: white;
@@ -48,7 +51,7 @@ h2{
     text-align: center;
     margin-top: 4%;
 }
-.a{
+.flexible{
     display: flex;
 }
 .third-section{
@@ -61,6 +64,37 @@ h2{
 }
 .third-section img{
     width: 100%;  
+}
+.final-part{
+    margin-top: 5%;
+    padding-top: 2%;
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 15%;
+    margin-right: 10%;
+    padding-left: 5%;
+    border-radius: 20px;
+}
+#border{
+    display: flex;
+    width: 100%;       
+}
+
+.box{
+    width: 30%;   
+}
+
+.box1{
+    padding-left: 30px;
+}
+
+.box2{
+    margin-left: 25px;
+   
+}
+.box3{
+   padding-left: 20px;
+   
+   text-align: center
 }
 .bottom-part{
     margin-top: 10%;
@@ -77,35 +111,4 @@ h2{
 }
 #network-color{
     color: #636e72;
-}
-.try{
-    margin-top: 5%;
-    padding-top: 3%;
-    box-shadow: 10px 10px 50px gray;
-    margin-left: 15%;
-    margin-right: 10%;
-    padding-left: 5%;
-    
-    border-radius: 20px;
-
-}
-#border{
-    display: flex;
-    width: 100%;
-        
-}
-.c{
-    padding-left: 20px;
-}
-.b{
-    width: 30%;   
-}
-.d{
-    margin-left: 20px;
-   
-}
-.e{
-   padding-left: 20px;
-   
-   text-align: center
 }
