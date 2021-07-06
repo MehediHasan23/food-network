@@ -78,3 +78,34 @@ h2{
 #network-color{
     color: #636e72;
 }
+.try{
+    margin-top: 5%;
+    padding-top: 3%;
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 15%;
+    margin-right: 10%;
+    padding-left: 5%;
+    
+    border-radius: 20px;
+
+}
+#border{
+    display: flex;
+    width: 100%;
+        
+}
+.c{
+    padding-left: 20px;
+}
+.b{
+    width: 30%;   
+}
+.d{
+    margin-left: 20px;
+   
+}
+.e{
+   padding-left: 20px;
+   
+   text-align: center
+}
